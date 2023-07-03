@@ -1,0 +1,21 @@
+.texto-menor{
+    font-size: 13px;
+}
+.divs-facilidades{
+    width: 325px;
+}
+
+.btn-color-cuton {
+    background-color: #9353FF;
+    border: none;
+}
+.btn-color-cuton:hover {
+    background-color: #7d44df;
+}
+.btn-color-cuton:active{
+    background-color: #5d34a3;
+}
+
+.texto-color-amarelo{
+    color: #DAFF01;
+}
